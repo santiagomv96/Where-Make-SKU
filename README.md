@@ -1,1 +1,3 @@
 # Where-Make-SKU
+
+Where Make SKU is a linear programming model designed to optimize supply chain costs. It integrates bills of materials (BOM) and resource lists, which are connected through specific manufacturing versions of a finished product. The model associates fixed and variable costs to each resource involved in the production process, and includes labor costs as well as logistics expenses related to the transportation of raw materials and finished goods. It is built to evaluate multiple plants, each with different manufacturing versions, in order to determine the optimal production strateg
